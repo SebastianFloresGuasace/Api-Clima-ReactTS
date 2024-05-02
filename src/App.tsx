@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <h1 className={styles.title}>Buscador de Clima</h1>
+      <h1 className={styles.title}>BUSCADOR DE CLIMA</h1>
       
       <div className={styles.container}>
         <Form fetchWeather = { fetchWeather } />
